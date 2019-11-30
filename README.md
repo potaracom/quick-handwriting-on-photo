@@ -11,7 +11,7 @@ https://qiita.com/potara/items/6b056a8c0baae0ecc419
 # 利用方法
 
 以下の URL からプラグインファイルをダウンロードしてください。  
-https://github.com/potaracom/quick-handwriting-on-photo/releases/download/v1/quick-handwriting-on-photo-ver1.plugin.zip  
+https://github.com/potaracom/quick-handwriting-on-photo/releases/download/v2/quick-handwriting-on-photo-ver2.plugin.zip  
 利用を開始すると有効期間が 30 日に設定されます。
 
 # 30 日以降も利用する場合
@@ -24,3 +24,9 @@ https://github.com/potaracom/quick-handwriting-on-photo/releases/download/v1/qui
 
 ライセンス更新作業の完了をメールで連絡します。  
 その後、プラグイン設定を再保存していただくことで有効期限以降も利用できるようになります。
+
+# 更新情報
+
+- 2019/11/30 v2 リリース  
+  手書きで選択したペンの色を記憶
+  
